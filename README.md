@@ -1,4 +1,4 @@
-# Guess-The-Number
+# Guess The Number
 A simple Guess The Number game created in Python where you can guess the computer's number, or the computer guesses yours.
 
 Download Guess the Number!.exe and run it to play the game.
